@@ -1,4 +1,6 @@
-![WordCloud](https://s8.uupload.ir/files/wordcloud_mowlana_d62a.jpg)
+<p align="center">
+  <img src="https://s8.uupload.ir/files/wordcloud_mowlana_d62a.jpg" alt="wordcloud mowlana" width="400">
+</p>
 
 برای اجرای کد کافیست فایل های  ورودی زیر را در یک فولدر قرار دهید و کد پایتون را اجرا کنید. کتابخانه های مورد نیاز در ابتدای کد پایتون موجود است. خروجی ها شامل موارد زیر است:
 wordcloud_mowlana.png
