@@ -23,7 +23,7 @@ report_mowlana.txt
 
 ```bash
 pip install pandas wordcloud matplotlib arabic-reshaper python-bidi
-python wordcloud_mowlana.py
+python run.py
 ```
 
 ## 📊 خروجی‌ها
